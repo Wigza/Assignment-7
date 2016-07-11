@@ -506,5 +506,11 @@ footer p {
     margin-bottom: 30px;
 }
 
+.post p {
+    font-size: 1rem;
+    line-height: 1.333;
+    color: #606161;
+}
+
 
 }
