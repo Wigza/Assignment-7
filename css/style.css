@@ -150,6 +150,7 @@ header nav ul li a {
     height: 700px;
     background: url(../images/header_bg.jpg) no-repeat top center #131e27;
     padding-top: 112px;
+    background-size: cover;
 }
 
 #hero .container {
